@@ -16,5 +16,3 @@
 <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
   
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwiandhikaaa&show_icons=true&locale=en" alt="dwiandhikaaa" /></p>
-
