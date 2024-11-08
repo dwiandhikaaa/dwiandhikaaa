@@ -4,15 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwiandhikaaa&label=Profile%20views&color=0e75b6&style=flat" alt="dwiandhikaaa" /> </p>
 
  - 👨‍💻 All of my projects 
-
 - 💬 Ask me about
-
 - 📫 How to reach me: **andhikavernando767@gmail.com**
-
 - 🌱 Currently diving deeper into *MYSQL*
-
 - 🚀 Always up for a challenge, whether it's scaling infrastructure or automating workflows
-
 - 🛠️ Tools & Technologies I work with:
   
   ![React JS](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
@@ -27,16 +22,10 @@
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
   ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-DD4814?logo=codeigniter&logoColor=white&style=flat)
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
-
 - 🌍 I’m always open to collaborating on **Open Source Projects** and **Innovative Ideas**
-
-- 🎯 My Goals: Contribute more to the Dev community and keep pushing the boundaries of automation
-
-- ✨ Fun fact: When I'm not automating workflows, you can find me exploring new tech or indulging in a good sci-fi novel
-
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/dwiandhikaaa/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/andhika-dwi-vernando-kurniawan-034458334/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="linkedin" /></a>
   <a href="https://twitter.com/dwiandhikaaa" target="_blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat" alt="twitter" /></a>
-  <a href="andhikavernando767@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat" alt="gmail" /></a>
+  <a href="https://andhikavernando767@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat" alt="gmail" /></a>
 </p>
